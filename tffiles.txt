@@ -1,0 +1,6 @@
+-rw-r--r--.  1 madur.balaji interns     0 May 17 05:57 tffiles.txt
+-rw-r--r--.  1 madur.balaji interns     0 May 17 05:57 tf
+-rw-r--r--.  1 madur.balaji interns  1966 Apr 28 02:57 outfile
+-rw-r--r--.  1 madur.balaji interns     0 Apr 26 05:48 TF2
+-rw-r--r--.  1 madur.balaji interns   238 Apr 26 05:45 tf1
+-rw-r--r--.  1 madur.balaji interns     0 Apr 26 05:23 testfile

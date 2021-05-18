@@ -1,0 +1,36 @@
+total 20
+-rwxrwxrwx. 1 madur.balaji interns   0 Apr 26 05:51 sample1
+-rw-r--r--. 1 madur.balaji interns  72 Apr 26 05:42 tf
+-rw-r--r--. 1 madur.balaji interns  51 Apr 26 05:36 file1
+-rw-r--r--. 1 madur.balaji interns 238 Apr 26 05:45 tf1
+-rw-r--r--. 1 madur.balaji interns 131 Apr 26 05:38 file2
+-rw-r--r--. 1 madur.balaji interns 111 Apr 26 05:49 newfile
+-rw-r--r--. 1 madur.balaji interns   0 Apr 28 02:56 outfile
+-rw-r--r--. 1 madur.balaji interns   0 Apr 28 02:43 f2
+-rw-r--r--. 1 madur.balaji interns   0 Apr 28 02:43 f1
+-rw-r--r--. 1 madur.balaji interns   0 Apr 26 06:01 nf1
+-rw-r--r--. 1 madur.balaji interns   0 Apr 26 05:48 tf2
+-rw-r--r--. 1 madur.balaji interns   0 Apr 26 05:23 testfile
+-rw-r--r--. 1 madur.balaji interns   0 Apr 23 07:39 look
+drwxr-xr-x. 3 madur.balaji interns  19 Apr 26 05:28 test
+drwxr-xr-x. 3 madur.balaji interns  19 Apr 23 08:16 trng
+drwxr-xr-x. 2 madur.balaji interns   6 Apr 28 02:43 try1
+drwxr-xr-x. 2 madur.balaji interns   6 Apr 28 02:42 try
+total 24
+-rwxrwxrwx. 1 madur.balaji interns   0 Apr 26 05:51 sample1
+-rw-r--r--. 1 madur.balaji interns 983 Apr 28 02:56 outfile
+-rw-r--r--. 1 madur.balaji interns  72 Apr 26 05:42 tf
+-rw-r--r--. 1 madur.balaji interns  51 Apr 26 05:36 file1
+-rw-r--r--. 1 madur.balaji interns 238 Apr 26 05:45 tf1
+-rw-r--r--. 1 madur.balaji interns 131 Apr 26 05:38 file2
+-rw-r--r--. 1 madur.balaji interns 111 Apr 26 05:49 newfile
+-rw-r--r--. 1 madur.balaji interns   0 Apr 28 02:43 f2
+-rw-r--r--. 1 madur.balaji interns   0 Apr 28 02:43 f1
+-rw-r--r--. 1 madur.balaji interns   0 Apr 26 06:01 nf1
+-rw-r--r--. 1 madur.balaji interns   0 Apr 26 05:48 tf2
+-rw-r--r--. 1 madur.balaji interns   0 Apr 26 05:23 testfile
+-rw-r--r--. 1 madur.balaji interns   0 Apr 23 07:39 look
+drwxr-xr-x. 3 madur.balaji interns  19 Apr 26 05:28 test
+drwxr-xr-x. 3 madur.balaji interns  19 Apr 23 08:16 trng
+drwxr-xr-x. 2 madur.balaji interns   6 Apr 28 02:43 try1
+drwxr-xr-x. 2 madur.balaji interns   6 Apr 28 02:42 try

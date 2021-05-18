@@ -1,0 +1,102 @@
+.:
+total 100
+-rw-r--r--.  1 madur.balaji interns     0 May  1 07:39 out
+drwx------.  9 madur.balaji interns  4096 May  1 07:24 .
+-rw-------.  1 madur.balaji interns 12781 May  1 07:24 .bash_history
+drwx------.  3 madur.balaji interns    20 May  1 07:12 .config
+-rw-r--r--.  1 madur.balaji interns    41 May  1 06:49 sample
+-rw-r--r--.  1 madur.balaji interns    67 May  1 06:39 state.txt
+-rw-r--r--.  1 madur.balaji interns    35 May  1 06:13 samp6
+-rw-r--r--.  1 madur.balaji interns   189 May  1 05:56 geekfile.txt
+-rw-------.  1 madur.balaji interns  1427 May  1 05:32 .viminfo
+-rwxrwxrwx.  1 madur.balaji interns    18 May  1 04:49 dr
+drwxr-xr-x.  2 madur.balaji interns     6 Apr 29 08:02 Git_Demo
+-rw-r--r--.  1 madur.balaji interns   174 Apr 29 03:15 out2
+-rw-r--r--.  1 madur.balaji interns  1926 Apr 29 03:15 out1
+drwxr-xr-x.  2 madur.balaji interns    48 Apr 29 01:53 tstc
+drwxr-xr-x.  2 madur.balaji interns    47 Apr 29 01:49 try1
+-rw-r--r--.  1 madur.balaji interns     0 Apr 29 01:38 -
+-rw-r--r--.  1 madur.balaji interns     0 Apr 29 01:32 samp5
+-rw-r--r--.  1 madur.balaji interns    16 Apr 29 01:32 samp4
+-rw-r--r--.  1 madur.balaji interns     0 Apr 29 01:31 samp33
+-rw-r--r--.  1 madur.balaji interns   825 Apr 28 03:23 of
+-rw-r--r--.  1 madur.balaji interns  1966 Apr 28 02:57 outfile
+-rw-r--r--.  1 madur.balaji interns     0 Apr 28 02:43 f1
+-rw-r--r--.  1 madur.balaji interns     0 Apr 28 02:43 f2
+drwxr-xr-x.  2 madur.balaji interns     6 Apr 28 02:42 try
+-rw-r--r--.  1 madur.balaji interns     0 Apr 26 06:01 nf1
+-rw-r--r--.  1 madur.balaji interns   111 Apr 26 05:49 newfile
+-rw-r--r--.  1 madur.balaji interns     0 Apr 26 05:48 tf2
+-rw-r--r--.  1 madur.balaji interns   238 Apr 26 05:45 tf1
+-rw-r--r--.  1 madur.balaji interns    72 Apr 26 05:42 tf
+-rw-r--r--.  1 madur.balaji interns   131 Apr 26 05:38 file2
+-rw-r--r--.  1 madur.balaji interns    51 Apr 26 05:36 file1
+drwxr-xr-x.  3 madur.balaji interns    19 Apr 26 05:28 test
+-rw-r--r--.  1 madur.balaji interns     0 Apr 26 05:23 testfile
+drwxr-xr-x.  3 madur.balaji interns    19 Apr 23 08:16 trng
+-rw-r--r--.  1 madur.balaji interns     0 Apr 23 07:39 look
+drwxr-xr-x. 23 root         root     4096 Mar 31 07:50 ..
+-rw-r--r--.  1 madur.balaji interns    18 Aug  3  2020 .bash_logout
+-rw-r--r--.  1 madur.balaji interns   141 Aug  3  2020 .bash_profile
+-rw-r--r--.  1 madur.balaji interns   376 Aug  3  2020 .bashrc
+
+./.config:
+total 4
+drwx------. 9 madur.balaji interns 4096 May  1 07:24 ..
+drwx------. 3 madur.balaji interns   20 May  1 07:12 .
+drwx------. 2 madur.balaji interns    6 May  1 07:12 procps
+
+./.config/procps:
+total 0
+drwx------. 2 madur.balaji interns  6 May  1 07:12 .
+drwx------. 3 madur.balaji interns 20 May  1 07:12 ..
+
+./Git_Demo:
+total 4
+drwx------. 9 madur.balaji interns 4096 May  1 07:24 ..
+drwxr-xr-x. 2 madur.balaji interns    6 Apr 29 08:02 .
+
+./tstc:
+total 8
+drwx------. 9 madur.balaji interns 4096 May  1 07:24 ..
+drwxr-xr-x. 2 madur.balaji interns   48 Apr 29 01:53 .
+-rw-r--r--. 1 madur.balaji interns   63 Apr 29 01:53 sampl_tc.txt
+-rwxrwxrwx. 1 madur.balaji interns    0 Apr 26 05:51 sample1_ft.txt
+
+./try1:
+total 12
+drwx------. 9 madur.balaji interns 4096 May  1 07:24 ..
+drwxr-xr-x. 2 madur.balaji interns   47 Apr 29 01:49 .
+-rw-r--r--. 1 madur.balaji interns   63 Apr 29 01:49 samp1
+-rwxr-xr-x. 1 madur.balaji interns    0 Apr 29 01:49 sample1
+-rw-r--r--. 1 madur.balaji interns  214 Apr 29 01:30 samp2
+
+./try:
+total 4
+drwx------. 9 madur.balaji interns 4096 May  1 07:24 ..
+drwxr-xr-x. 2 madur.balaji interns    6 Apr 28 02:42 .
+
+./test:
+total 4
+drwx------. 9 madur.balaji interns 4096 May  1 07:24 ..
+drwxr-xr-x. 3 madur.balaji interns   19 Apr 26 05:28 .
+drwxr-xr-x. 2 madur.balaji interns    6 Apr 26 05:28 test2
+
+./test/test2:
+total 0
+drwxr-xr-x. 2 madur.balaji interns  6 Apr 26 05:28 .
+drwxr-xr-x. 3 madur.balaji interns 19 Apr 26 05:28 ..
+
+./trng:
+total 4
+drwx------. 9 madur.balaji interns 4096 May  1 07:24 ..
+drwxr-xr-x. 3 madur.balaji interns   19 Apr 23 08:16 .
+drwxr-xr-x. 2 madur.balaji interns   46 Apr 23 08:10 test1
+
+./trng/test1:
+total 0
+drwxr-xr-x. 3 madur.balaji interns 19 Apr 23 08:16 ..
+drwxr-xr-x. 2 madur.balaji interns 46 Apr 23 08:10 .
+-rw-r--r--. 1 madur.balaji interns  0 Apr 23 08:06 koms1
+-rw-r--r--. 1 madur.balaji interns  0 Apr 23 08:03 koms
+-rw-r--r--. 1 madur.balaji interns  0 Apr 23 08:03 prakhar
